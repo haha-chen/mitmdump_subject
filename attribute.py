@@ -1,4 +1,6 @@
 """
+以下内容来自：https://blog.csdn.net/weixin_39943586/article/details/110487564
+
 -q：屏蔽mitmdump默认的控制台日志，只显示自己脚本中的
 
 -s：入口脚本文件
